@@ -180,9 +180,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## Output screen shots of proteus  :
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
- 
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
